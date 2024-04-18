@@ -1,0 +1,10 @@
+6) una wiki es el nombre que recibe una comunidad virtual,cuyas paginas 
+son editadas desde el navegador donde los mismos usuarios crean, modifican,
+corrigen o eliminan contenidos que habitualmente son compartidos por cualquier otro usuario
+
+estos se pueden usar para cualquier cosa,desde repositorios,listas o enlances web
+por dar un ejemplo la Wiki mas grande del mundo es Wikipedia. 
+
+para usar la wiki de GitHub debe entrar en tu repositorio y dar click en la opcion Wiki
+hacemos clik en Nueva Pagina,en el editor de texto podemos agregar el contenido de la pagina
+para confirmar los cambios en la Wiki hacemos click en Guardar Pagina
